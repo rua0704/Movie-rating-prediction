@@ -67,6 +67,10 @@ for epoch in range(total_epoch):
 MF의 대표적인 알고리즘 SGD(Stochastic Gradient Descent)와 ALS(Alternating Least Squares) 중에 구현이 쉽고 빠른 SGD방법을
 사용했다.
 ## 결과
+![image](https://user-images.githubusercontent.com/68917206/135743937-69c4fa8a-9f77-419c-a6b1-db7d17322765.png)
+
+RMSE를 사용하여 결과값 확인
+
 ![image](https://user-images.githubusercontent.com/68917206/135743851-fe4f6b2b-1001-4bb1-8822-efa19ae1e8d9.png)
 
 
